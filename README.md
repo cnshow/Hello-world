@@ -1,2 +1,2 @@
 # Hello-world
-first taste on GitHub
+first taste of GitHub
